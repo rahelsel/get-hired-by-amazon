@@ -19,7 +19,7 @@ CSS
 - CSS resets -- generally, what these are, what they do, and why they matter
 - e.g. http://meyerweb.com/eric/tools/css/reset/
 - e.g.  https://necolas.github.io/normalize.css/ (not necessary to know how to write one, just good to know what they are)
- 
+
 JAVASCRIPT
 - ES5
 - ES6/7/next knowledge is a bonus, but this will become expected within a few years
@@ -44,26 +44,26 @@ JAVASCRIPT
 - XMLHttpRequest
 - jQuery is fine
 - fetch or a fetch polyfill will become more relevant over time
- 
+
 WEB PERFORMANCE
 - Steve Souders books are useful here (the best practices are changing over time though)
 - reduce HTTP requests
 - CSS/JS: concatenate, minify, gzip
 - JS: load critical components early and async, delay loading of unimportant assets
- 
+
 HTTP
 - knowing basics of how HTTP works and how a page communicates with server for things like AJAX
 - know how forms work (HTML) and different HTTP methods like GET and POST
- 
+
 WEB SKILLZ
 - cross-browser compatibility
 - progressive enhancement / graceful degradation
 - reusable components (HTML, CSS, JS) -- e.g. a button, star ratings, etc.
 - basic SEO knowledge (e.g. if stuff requires JS to render, search engines won't necessarily see it)
 - basic web security (why HTTPS should be used, how to avoid common attacks like XSS)
- 
+
 MOBILE SKILLZ
 - Mobile First approach is becoming more relevant, importance depends on the team and the projects
 - Responsive -- CSS media queries and/or RESS (responsive with server side components)
 
-Okee so time to review!!!
+Okee so time to review!!! Personal challenge to myself is to go through each of these points and illustrate working knowledge of them through a code project. 
